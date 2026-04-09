@@ -1,0 +1,9 @@
+fan_id,fan_name,team,engagement_type,platform,interaction_time,region,spend_amount
+101,Rahul Sharma,Mumbai Warriors,Like,Instagram,2026-04-01 10:15:00,India,0
+102,Ananya Verma,Delhi Titans,Comment,Twitter,2026-04-01 11:20:00,India,0
+103,John Smith,Bangalore Strikers,Merch Purchase,Website,2026-04-01 12:05:00,USA,120
+104,Priya Singh,Chennai Kings,Share,Facebook,2026-04-01 13:40:00,India,0
+105,David Lee,Kolkata Riders,Ticket Purchase,Mobile App,2026-04-01 15:10:00,Singapore,300
+106,Meera Iyer,Mumbai Warriors,Like,Instagram,2026-04-02 09:25:00,India,0
+107,Arjun Patel,Delhi Titans,Comment,YouTube,2026-04-02 10:30:00,India,0
+108,Sophia Brown,Bangalore Strikers,Merch Purchase,Website,2026-04-02 11:45:00,UK,85
