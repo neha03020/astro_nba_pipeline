@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 from io import StringIO
 
-CSV_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/astro-mba-pipeline/main/data/mba_fan_data.csv"
+CSV_URL = "https://raw.githubusercontent.com/neha03020/astro_nba_pipeline/refs/heads/main/data/nba_fan_data.csv
 
 
 def extract_fan_data():
