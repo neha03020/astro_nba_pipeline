@@ -29,7 +29,7 @@ def load_to_snowflake(ti):
 
     for _, row in df.iterrows():
         query = f"""
-        INSERT INTO mba_db.fan_schema.fan_engagement
+        INSERT INTO nba_db.fan_schema.fan_engagement
         VALUES (
             {int(row['fan_id'])},
             '{row['fan_name']}',
@@ -47,7 +47,7 @@ def load_to_snowflake(ti):
 
 
 with DAG(
-    dag_id="mba_fan_pipeline",
+    dag_id="nba_fan_pipeline",
     start_date=datetime(2024, 1, 1),
     schedule=None,
     catchup=False,
